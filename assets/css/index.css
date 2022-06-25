@@ -1,0 +1,85 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+    background-image: url(https://media.istockphoto.com/vectors/old-yellowish-cream-beige-colored-cracked-effect-wooden-wall-texture-vector-id1067788314?k=20&m=1067788314&s=612x612&w=0&h=S8QeD8sj6TL5vwi3WddhWCXTqdEz0qB_mCrSkGQ8V5s=);
+}
+
+.social {
+    bottom: 0;
+    right: 0;
+    position: fixed;
+    margin: 10px;
+}
+
+.brown {
+    color: brown;
+}
+
+.hotpink {
+    color: hotpink;
+}
+
+.comic-font {
+    font-family: "Comic Sans MS";
+}
+
+#img1 {
+    float: right;
+    filter: brightness(70%);
+}
+
+#img1:hover {
+    filter: brightness(100%);
+}
+
+a {
+    text-decoration: none;
+    color: blue;
+}
+
+a:hover {
+    color: tomato;
+}
+
+a:active {
+    border-bottom: 1px dotted black;
+}
+
+
+#header {
+    padding: 10px;
+    text-align: center;
+    font-weight: bold;
+    display: block;
+    background-color: #333;
+    color: white;
+    font-size: xx-large;
+}
+
+.topbar {
+    text-align: center;
+    background-color: tomato;
+}
+
+.topbar-item {
+    display: inline-block;
+    background-color: tomato;
+    padding: 5px;
+    cursor: pointer;
+    color: white;
+    /* border-radius: 8px; */
+}
+
+.topbar-item:hover {
+    background-color: #4caf50;
+}
+
+.main {
+    max-width: 1000px;
+    text-align: center;
+    margin: auto;
+}
+
+.topbar-item a {
+    color: white;
+}

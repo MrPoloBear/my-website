@@ -1,0 +1,19 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    margin: 0%;
+    background-image: url(https://img.freepik.com/free-vector/hand-painted-watercolor-pastel-sky-background_23-2148902771.jpg?w=2000);
+}
+
+#header {
+    font-size: xx-large;
+    color: tomato;
+    background-color: white;
+    text-align: center;
+}
+
+.main {
+    text-align: center;
+    font-size: large;
+    margin: auto;
+    max-width: 1000px;
+}

@@ -1,0 +1,36 @@
+body {
+    font-family: 'poppins';
+    margin: 0%;
+    background-image: url(https://images.unsplash.com/photo-1603636636762-aa7a39434535?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8YnJvd24lMjB3YWxsfGVufDB8fDB8fA%3D%3D&w=1000&q=80);
+}
+
+#header {
+    padding: 10px;
+    margin: auto;
+    text-align: center;
+    font-size: xx-large;
+    font-weight: bolder;
+    background-color: peachpuff;
+    color: white;
+}
+
+#article {
+    max-width: 800px;
+    text-align: center;
+    margin: auto;
+}
+
+a {
+    text-decoration: none;
+}
+
+a:hover {
+    color: red;
+}
+
+.link-social {
+    display: inline-block;
+    cursor: pointer;
+    padding: 10px;
+    color: white;
+}
